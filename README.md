@@ -13,9 +13,10 @@ In this stock analysis I have done it in 2 different ways, At click of a button 
 2) Total daily volume for a given year.
 3) Percentage of a yearly return. 
 
-<p align="center">
-<img src="https://github.com/miralchangela/stock_analysis/blob/main/Resources/Stock_Analysis_Refactored_2017.png" width="30%" height="30%">    <img src="https://github.com/miralchangela/stock_analysis/blob/main/Resources/Stock_Analysis_Refactored_2018.png" width="30%" height="30%">
-</p>
+![VBA Analysis 2017](https://github.com/miralchangela/stock_analysis/blob/main/Resources/Stock_Analysis_Refactored_2017.png)
+
+![VBA Analysis 2018](https://github.com/miralchangela/stock_analysis/blob/main/Resources/Stock_Analysis_Refactored_2018.png)
+
 
 ## Summary
 ### What are the advantages or disadvantages of refactoring code? 
@@ -30,11 +31,15 @@ In this stock analysis I have done it in 2 different ways, At click of a button 
 - **Chance of mistakes** - refactoring code  went wrong, will have to waste much more time in solving the problem and there are probable chances that it may go wrong due to complexity of the code.
 
 ### How do these pros and cons apply to refactoring the original VBA script?
-- When we are refactoring the original VBA Script , we faces some prons and cons. refactoring code helps make our code cleaner and more organized.It may also benefit other users who view our projects because it becomes easier to read, as it is more concise and straightforward. the main pros of refactored code is its efficiency because it takes very less amount of time to execute the code. Here both images are representing  time efficency of simple code and refactored code.
+- When we are refactoring the original VBA Script , we faces some prons and cons. refactoring code helps make our code cleaner and more organized.It may also benefit other users who view our projects because it becomes easier to read, as it is more concise and straightforward. the main pros of refactored code is its efficiency because it takes very less amount of time to execute the code. Here both images are representing  time efficency of simple code and refactored code.From the image ,We can see that refactored code ran in just 0.4 seconds where simple code ran in approximately in 2 miniutes. Simple code took five times higher than refactored code.
 
-<p align="center">
-<img src="https://github.com/miralchangela/stock_analysis/blob/main/Resources/VBA_Challenge_2018.png" width="30%" height="30%">    <img src="https://github.com/miralchangela/stock_analysis/blob/main/Resources/VBA_Challenge_Refactored_2018.png" width="30%" height="30%">
-</p>
+**Time efficency of Simple code**
+
+![VBA Simple Analysis 2017](https://github.com/miralchangela/stock_analysis/blob/main/Resources/VBA_Challenge_2018.png)
+------------------------------------------------------------------------------------------------------------------------------------------------
+**Time efficency of Refactored code**
+
+![VBA Refactored Analysis 2018](https://github.com/miralchangela/stock_analysis/blob/main/Resources/VBA_Challenge_Refactored_2018.png)
 
 - The main cons of the refactored code is to imprecise refactoring could introduce new bugs and errors into the code.
 
